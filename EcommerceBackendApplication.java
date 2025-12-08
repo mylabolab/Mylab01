@@ -12,7 +12,7 @@ public class EcommerceBackendApplication {
 		int j = 20;
            int k = 30;
 		string name = "moses"
-
+        boolean status = false;
 	}
 
 }
