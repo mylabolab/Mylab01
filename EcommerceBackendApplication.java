@@ -10,6 +10,9 @@ public class EcommerceBackendApplication {
 		SpringApplication.run(EcommerceBackendApplication.class, args);
 		int j = 20;
 		
+		int j = 10;
+		sting name = "moses"
+
 	}
 
 }
