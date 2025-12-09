@@ -19,4 +19,13 @@ public class EcommerceBackendApplication {
         boolean status = false;
 	}
 
+// JIRA-101
+
+pubilc void m1 () {
+
+       int i = 10;
+       int j = 20;
+}
+
+
 }
