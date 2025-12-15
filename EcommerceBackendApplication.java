@@ -16,7 +16,7 @@ public class EcommerceBackendApplication {
 		int i = 10;
 		int j = 20;
            int k = 30;
-           string name = "GOD"
+           string name = "GOD BLESSING"
         boolean status = false;
 	}
 
